@@ -1,0 +1,25 @@
+{
+  "logo": {
+    "1": "Multi-Language"
+  },
+  "Welcome": {
+    "1": "Welcome"
+  },
+  "p1": {
+    "1": "This app demonstrate how to easily use a multilanguage mechanism in React"
+  },
+  "placeholder": {
+    "1": "First Name"
+  },
+  "value": {
+    "1": "Submit"
+  },
+  "menu": {
+    "1": "Home",
+    "2": "About",
+    "3": "Contact"
+  },
+  "language": {
+    "1": "Select Preferred Language"
+  }
+}

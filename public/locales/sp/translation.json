@@ -1,0 +1,25 @@
+{
+  "logo": {
+    "1": "Multi-Lenguaje"
+  },
+  "Welcome": {
+    "1": "Bienvenidos"
+  },
+  "p1": {
+    "1": "Esta aplicacion demuestra como reaccionar facilmente un mechanismo multilingue en"
+  },
+  "placeholder": {
+    "1": "Primer nombre"
+  },
+  "value": {
+    "1": "Enviar"
+  },
+  "menu": {
+    "1": "Casa",
+    "2": "Acerca de",
+    "3": "Contacto"
+  },
+  "language": {
+    "1": "Seleccionar idioma preferido"
+  }
+}

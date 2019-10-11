@@ -1,0 +1,25 @@
+{
+  "logo": {
+    "1": "Vicejazycny"
+  },
+  "Welcome": {
+    "1": "Vitejte"
+  },
+  "p1": {
+    "1": "Tato aplikace ukazuje, jak snadno reagovat na vicejazycny mechanismus"
+  },
+  "placeholder": {
+    "1": "Jmeno"
+  },
+  "value": {
+    "1": "Predlozit"
+  },
+  "menu": {
+    "1": "Domov",
+    "2": "O",
+    "3": "kontakt"
+  },
+  "language": {
+    "1": "Vyberte preferovany jazyk"
+  }
+}
